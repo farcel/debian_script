@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0069)https://raw2.github.com/Keith2/lowendscript-ng/master/setup-debian.sh -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">#!/bin/bash
+#!/bin/bash
 
 function check_install {
     if [ -z "`which "$1" 2&gt;/dev/null`" ]
@@ -1355,4 +1353,3 @@ friendica)
     done
     ;;
 esac
-</pre></body></html>
